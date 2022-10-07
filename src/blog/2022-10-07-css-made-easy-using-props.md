@@ -1,5 +1,5 @@
 ---
-title: CSS Made Easy Using Props
+title: CSS Made Easy Using Open Props
 author: Frederick Lamptey
 description: This article talks about a way to make writing css easier for web
   developers. Now developers can use predefined variables from prop's page to
