@@ -6,7 +6,8 @@ description: This article talks about a way to make writing css easier for web
   write their css.
 date: 2022-10-07T02:30:21.840Z
 tags:
-  - Article
+  - Post
+  - featured
 image: /assets/blog/sincerely-media-l6ysdz2m6nm-unsplash.jpg
 imageAlt: A man on his laptop that I want to use to depict a picture of someone
   coding in css.
