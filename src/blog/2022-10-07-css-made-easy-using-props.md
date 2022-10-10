@@ -20,7 +20,7 @@ Now, I know you may be wondering who the creator of the open props page is if on
 
 Still confused after watching Kevin's video? Don't worry let me break it down with one or two code examples here. But before I begin with the examples, I would like you to think of open props as values that can be used to complete the normal in-built CSS variables to achieve the expected styles of a user. Lets take a look at an example of a normal css code below:
 
-\`﻿\`` css
+﻿```css
 
 body {
 
@@ -28,11 +28,11 @@ body {
 
 }﻿
 
-\`﻿\``
+`﻿``
 
 Now, lets take a look at an example of this same code written using open props below and then we talk about the difference right after:
 
-\`﻿\``
+﻿```css
 
 body {
 
@@ -40,7 +40,7 @@ body {
 
 }﻿
 
-\`﻿\``
+﻿```
 
 At this point, I believe things should be a little clear to you after viewing the above code examples carefully. Now, to make things to you, when you look at the above codes, you would realize that the only differences between them are the representations of the values assigned to the various variables. In the second code example, the style of representation of the value "blue" is "var(--blue-6)" which is simply blue as the above but then again, it is using an open props syntax for indicating the color blue. The "var" in the beginning is just something that follows a value in open props, and the number "6" is a specified range of blue I want in my code. In the open props page, the range of blue you can choose from is 0-9. I guess this defines the intensity of the blue, but i am not sure about that as at this point of me writing this article.
 
