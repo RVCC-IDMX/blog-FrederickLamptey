@@ -249,6 +249,15 @@ header,
   text-align: center;
 }
 
+.logo svg {
+  width: 4rem;
+  height: 4rem;
+}
+
+.light svg {
+  stroke: white;
+  fill: white;
+}
 /* //////////////////////
   Homepage
   /////////////////////// */
