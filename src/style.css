@@ -248,6 +248,7 @@ header,
   color: var(--clr-neutral-100);
   /*background-color: var(--clr-primary-500);*/
   background-color: rgb(7,94,121);
+  font-size: var(--fs-300);
   text-align: center;
 }
 
