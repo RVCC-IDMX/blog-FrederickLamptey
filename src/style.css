@@ -284,7 +284,8 @@ header,
 }
 
 .featured-articles {
-  background-color: var(--clr-primary-200);
+ /* background-color: var(--clr-primary-200);*/
+ background-color:rgb(173,216,230) ;
 }
 
 .articles__list {
