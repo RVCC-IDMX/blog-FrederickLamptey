@@ -389,7 +389,8 @@ header,
 }
 
 .btn--primary {
-  background: var(--clr-primary-400);
+  /*background: var(--clr-primary-400);*/
+  background-color: rgb(25,75,229);
   color: var(--clr-neutral-100);
   font-weight: var(--fw-700);
   border: 2px solid var(--clr-primary-400);
