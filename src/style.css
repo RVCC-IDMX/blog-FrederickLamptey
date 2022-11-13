@@ -246,7 +246,7 @@ header,
   padding: 2em 0;
   color: var(--clr-neutral-100);
   /*background-color: var(--clr-primary-500);*/
-  background-color: RGB (7,94,121);
+  background-color: rgb(7,94,121);
   text-align: center;
 }
 
