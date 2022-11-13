@@ -5,8 +5,11 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  /* --ff-body: "Roboto", sans-serif;
+  --ff-heading: "Playfair Display", serif; */
+
+  --ff-body: "Nunito";
+  --ff-heading: "Nunito";
 
   --fw-400: 400;
   --fw-700: 700;
@@ -34,6 +37,20 @@
   }
 }
 
+/*Fonts Reset*/
+@font-face {
+  font-family: "Nunito";
+  src: url("/assets/fonts/Nunito-Regular.ttf");
+  font-style: normal;
+  font-weight: 300 800;
+}
+
+/* @font-face {
+  font-family: "Nunito";
+  src: url("/assets/fonts/Nunito-Italic.ttf");
+  font-style: italic;
+  font-weight: 300 800;
+} */
 /* //////////////////////
   RESET - source: https://piccalil.li/blog/a-modern-css-reset
   /////////////////////// */
