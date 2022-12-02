@@ -37,10 +37,17 @@ Nonetheless, for an animation to be good or accessible, you need to specify the 
 ``` css
 d﻿iv {
  ﻿ transition: wide 4s;
-}
-
-```﻿css
+}```﻿css
 
 However, a good animation can have a reduce motion feature to make it accessible to its audience. Mostly, fast moving animations are the ones that cause a lot of problems for some audiences. Such animations tend to make audiences feel dizzy, trigger headaches, and even can cause some of them to puke.  Therefore, in order to avoid this, designers or web developers can make use of the reduce motion feature. This feature will help them put the motion of an animation at an accessible and friendly manner. Example:
+
+<figure>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/fredericklamptey/embed/preview/BaVOEzv?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/fredericklamptey/pen/BaVOEzv">
+  Untitled</a> by FrederickLamptey (<a href="https://codepen.io/fredericklamptey">@fredericklamptey</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+<figcaption>Animated Tab (Inspired by https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/)</figcaption>
+</figure>
 
 To conclude, animations are inevitable in web development or design, however, how you present it in your webpage or website is what determines how accessible it is to the targeted audience(s).
