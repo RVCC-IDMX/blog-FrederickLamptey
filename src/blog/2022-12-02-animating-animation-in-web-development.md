@@ -34,10 +34,11 @@ Moreover, a good animation is one that allows users to control carousels. Carous
 
 Nonetheless, for an animation to be good or accessible, you need to specify the duration of it. Many at times, an animation without a duration becomes confusing to look at or even hard to understand. You tend not to know what or where the starting point of it is, and hence, this could be very disturbing and irritating to people with the aforementioned health issues or sensitivities. Hence, as a good web designer, it is expected of you to add an animation duration to your animation in order for your page to be accessible to all. 
 
-``` css
-d﻿iv {
- ﻿ transition: wide 4s;
-}```﻿css
+```
+div {
+ transition: wide 4s;
+}
+```
 
 However, a good animation can have a reduce motion feature to make it accessible to its audience. Mostly, fast moving animations are the ones that cause a lot of problems for some audiences. Such animations tend to make audiences feel dizzy, trigger headaches, and even can cause some of them to puke.  Therefore, in order to avoid this, designers or web developers can make use of the reduce motion feature. This feature will help them put the motion of an animation at an accessible and friendly manner. Example:
 
